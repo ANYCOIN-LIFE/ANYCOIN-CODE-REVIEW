@@ -5,7 +5,7 @@
 ### Index
 - [Technical Field](#technical-field)
 - [Background Art](#background-art)
-- [Technical Approach](#Technical-Approach)
+- [Technical Approach](#technical-approach)
 - [Technical Problem](#technical-problem)
 - [Advantageous Effects](#advantageous-effects)
 - [Description of Code Definitions](#description-of-drawings)
